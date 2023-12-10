@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Abdush32
+- 👋 Hi, I’m @Abdush
 - 👀 I’m interested in Javascript
-- 🌱 I’m currently learning Nextjs
+- 🌱 I’m currently Working on Nextjs
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me  Email:- abdushs54@gmail.com
+
 
 <!---
 Abdush32/Abdush32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

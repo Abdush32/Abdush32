@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdush
 - 👀 I’m interested in Javascript
-- 🌱 I’m currently Working on Nextjs
+- 🌱 I’m currently Working on Reactjs
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me  Email:- abdushs54@gmail.com
 
